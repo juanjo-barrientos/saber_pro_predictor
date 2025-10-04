@@ -9,8 +9,7 @@ Este proyecto tiene como objetivo predecir los resultados del examen Saber Pro u
 ## Estructura del proyecto
 
 - `data/`: Conjunto de datos utilizados para el entrenamiento y prueba.
-- `src/`: Código fuente del predictor.
-- `notebooks/`: Análisis exploratorio y experimentos.
+- `01 - exploracion.ipynb`: Notebook principal de la entrega.
 
 ## Requisitos
 
