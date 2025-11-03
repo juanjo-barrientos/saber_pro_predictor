@@ -6,7 +6,7 @@
 
 Este proyecto tiene como objetivo predecir los resultados del examen Saber Pro utilizando técnicas de análisis de datos y aprendizaje automático.
 
-**Link al video ENTREGA #2** [text](https://youtu.be/ffOyzmVeOgg)
+**Link al video ENTREGA #2** [Video de entrega](https://youtu.be/ffOyzmVeOgg)
 
 ## Requisitos
 
