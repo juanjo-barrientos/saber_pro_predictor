@@ -8,12 +8,6 @@ Este proyecto tiene como objetivo predecir los resultados del examen Saber Pro u
 
 **Link al video ENTREGA #2** [text](https://youtu.be/ffOyzmVeOgg)
 
-## Estructura del proyecto
-
-- `data/`: Conjunto de datos utilizados para el entrenamiento y prueba.
-- `src/`: Código fuente del predictor.
-- `notebooks/`: Análisis exploratorio y experimentos.
-
 ## Requisitos
 
 - Python 3.x
